@@ -1,0 +1,11 @@
+
+# no .png files
+*.png
+
+# Jeina git
+*.pkl
+*.env
+*.DS_Store
+*.jpg
+*.jpeg
+*.obj
